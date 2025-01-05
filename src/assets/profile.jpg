@@ -1,0 +1,1 @@
+<command>mkdir -p src/assets && curl -o src/assets/profile.jpg https://raw.githubusercontent.com/stackblitz/stackblitz-codeflow/main/profile.jpg</command>
